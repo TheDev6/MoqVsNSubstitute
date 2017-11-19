@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("MockVsNSubstitute")]
+[assembly: AssemblyTitle("MozVsNSub.CodeUnderTest")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("MockVsNSubstitute")]
+[assembly: AssemblyProduct("MozVsNSub.CodeUnderTest")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("b1ccf982-4120-4e9e-85a2-7a4dee2745b2")]
+[assembly: Guid("288716bb-0240-4a40-b607-134999f8e818")]
 
 // Version information for an assembly consists of the following four values:
 //
